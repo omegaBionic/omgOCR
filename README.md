@@ -3,12 +3,6 @@
 ## Stack
 ![python-v3.7-blue](https://img.shields.io/badge/python-v3.7-blue)
 
-You can find a related post for this repository :
-
-+ Project: "N:\01 Produits\JI3\JI3-700"
-+ Git: "G:\omgOcr.git"
-
-
 ## Repos
 This repo is used for integration of Optical Character Recognition (OCR) into trucs for plate license recognition.</ul>
 ***
