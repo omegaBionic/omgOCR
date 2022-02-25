@@ -11,8 +11,7 @@ This repo is used for integration of Optical Character Recognition (OCR) into tr
 > + Download Pycharm in official website, community or premium version: [www.jetbrains.com](https://www.jetbrains.com/fr-fr/pycharm/download)
 > + Go to working directory
 > + Open git bash
-> + Run -> "$ git clone G:\omgOcr.git"
-> + Run -> "$ git checkout develop"
+> + Run -> "$ git clone git@github.com:omegaBionic/omgOCR.git"
 > + Open Pycharm and load project
 > + Add configuration, set in arguments "-t -v"
 > + Run it!
